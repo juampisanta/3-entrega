@@ -1,0 +1,32 @@
+@import"animaciones";
+
+@keyframes aparecer{
+    0% {
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+}
+}
+.animacionLogo{
+    animation-name: aparecer;
+    animation-duration: 2s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    }
+
+.transformacionMenu :hover{
+        font-size: 40px;
+    }
+
+    .animacionNovedades{
+        transition: all 1s;
+        width: 250px;
+        height: 250px;
+    
+    }
+    .animacionNovedades:hover{
+        width: 600px;
+        height: 350px;
+       
+    }

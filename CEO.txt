@@ -1,0 +1,7 @@
+CEO
+
+Utilizacion de palabras claves referidas a nuestro contenido
+Utilización de las etiquetas <meta> para las descripciones de cada una de nuestras paginas de nuestro sitio
+Utilizacion de una estructura de directorios simples, dándole la posibilidad a los usarios de saber en que pagina se encuentran con facilidad.
+Uso de diseño web adaptable (responsive)
+Planificación de una buena navegabilidad a partir de la pagina principal para  poder pasar de una pagina a otra sin problemas.
